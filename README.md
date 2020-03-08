@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### README
+See [Sentry&Vue.js简单实践](https://www.notion.so/wangsw/Sentry-Vue-js-6da61b31a8094ec3ba72728e44ffbff5)

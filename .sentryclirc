@@ -1,7 +1,7 @@
 [auth]
-token=f9168bbf2e0c45308ee1be6d0436f5837ad8d6dc72324e3aa2eda3d99edd14af
+token=d582e04537624daca5e85e44940d3070cc0dc01e5da2401abcbfc771752b4259
 
 [defaults]
 url=http://159.138.87.26/
 org=shareit
-project=test-vue
+project=vue
