@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### README
+sentry.ushareit.org
 See [Sentry&Vue.js简单实践](https://www.notion.so/Sentry-Vue-js-5df535835e8342fd8df7bb9f712caa33)
