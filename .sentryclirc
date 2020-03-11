@@ -1,7 +1,7 @@
 [auth]
-token=d582e04537624daca5e85e44940d3070cc0dc01e5da2401abcbfc771752b4259
+token=4f377bc9a643441d81038ad503fc7635400bf38a2e964cc0a7853f70c5dd1687
 
 [defaults]
-url=http://159.138.87.26/
+url=http://sentry.ushareit.org
 org=shareit
-project=vue
+project=vue-test

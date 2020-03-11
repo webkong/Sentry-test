@@ -4,7 +4,7 @@ import * as Sentry from '@sentry/browser';
 import * as Integrations from '@sentry/integrations';
 
 Sentry.init({
-  dsn: 'http://0d7c76f592664992abcabafda863c8b2@sentry.ushareit.org/2',
+  dsn: 'http://82817fcc1d074e7d99aa1adbf3e72192@sentry.ushareit.org/2',
   integrations: [new Integrations.Vue({Vue, attachProps: true, logErrors: true})],
 });
 Vue.config.productionTip = false
