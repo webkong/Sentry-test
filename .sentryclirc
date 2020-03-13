@@ -4,4 +4,4 @@ token=4f377bc9a643441d81038ad503fc7635400bf38a2e964cc0a7853f70c5dd1687
 [defaults]
 url=http://sentry.ushareit.org
 org=shareit
-project=vue-test
+project=test
